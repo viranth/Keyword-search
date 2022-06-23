@@ -1,6 +1,6 @@
 # Keyword-search
 
-It looks like a Keyword searching we  search a particular data it would be stored in a database and the database is MYSQL
+It looks like a Keyword searching we  search a particular data it would be stored in a database and the database is MYSQL and the data is fetched to view the index.jsp file
 Technology used :
 **Tomcat server 
 Xampp
