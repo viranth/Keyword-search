@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+        body{
+            font-family: 'Poppins', sans-serif;
+            background-color: #E4DED2;
+            
+        }
+.btn-2{
+    margin-left: 100px;
+    padding: 15px 10px 10px 10px;
+}
+.btna{
+    margin-left: 20px;
+}
+input[type=text],input[type=email],input[type=tel]{
+    border: 1px solid #555;
+}
+textarea{
+    border: 1px solid #555;
+}
